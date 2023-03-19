@@ -224,5 +224,7 @@ sudo setsebool -P httpd_execmem 1
 - TESTING JENKINS 3/19/2023
  
 - CHECKING PUBLISH OVER SSH 3/19/2023 
+ 
+- WORKING 
 
 
