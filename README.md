@@ -221,12 +221,6 @@ sudo setsebool -P httpd_execmem 1
   
 <img width="883" alt="Congrats" src="https://user-images.githubusercontent.com/115954100/223837093-112266f1-46d2-4155-9e2f-6efb80a7fe66.png">
 
-- TESTING JENKINS 3/19/2023
- 
-- CHECKING PUBLISH OVER SSH 3/19/2023 
- 
-- WORKING 
- 
-- perfect Job
+
 
 
